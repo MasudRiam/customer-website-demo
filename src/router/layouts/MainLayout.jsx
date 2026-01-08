@@ -10,7 +10,7 @@ const MainLayout = () => {
         <Navbar />
 
       <main className="main-content">
-        <Outlet /> {/* This is where child pages render */}
+        <Outlet />
       </main>
 
       <Footer />
